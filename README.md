@@ -4,3 +4,5 @@ This repository reproduces GPT-2 based on the tutorial given by Andrej Karpathy 
 ## Reference
 - Let's reproduce GPT-2 (124M): https://www.youtube.com/watch?v=l8pRSuU81PU
 - Let's build GPT: from scratch, in code, spelled out.: https://www.youtube.com/watch?v=kCc8FmEb1nY
+- nanoGPT: https://github.com/karpathy/nanoGPT
+- ng-video-lecture: https://github.com/karpathy/ng-video-lecture
